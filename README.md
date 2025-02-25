@@ -52,4 +52,4 @@
 
 <B>Лицензия</B>
 
-Этот проект распространяется под лицензией MIT. Подробности см. в файле LICENSE.
+Этот проект распространяется под лицензией MIT. Подробности см. в файле <a href="https://github.com/ioinio/dataset_creating/blame/main/LICENSE">LICENSE</a>.
